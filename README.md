@@ -22,7 +22,7 @@
 - Tener conexión a internet.
 ---
 #### Instrucciones:
-1. Nos dirigimos al **[portal de Microsoft Azure](https://portal.azure.com/#home)** para iniciar sesión con el correo de **Innovación Virtual**.
+1. Nos dirigimos al **[portal de Microsoft Azure](https://portal.azure.com/#home)** para iniciar sesión con el correo de **Innovacción Virtual**.
 2. Una vez iniciada la sesión, en la página de inicio nos dirigimos a la **"Barra de búsqueda de recursos, servicios y documentos"**. 
 <center>
 
@@ -57,3 +57,19 @@
 ![Captura de pantalla](Imágenes/Captura-de-pantalla-5.png)
 
 </center>
+
+7. Estando en el apartado **"Creación de Wordpress en App Service"**, en **datos básicos** colocamos la información pertinente para crear el recurso **(suscripción, grupo de recursos, región, nombre y sistema operativo, ya sea Windowa o Linux)**.
+<center>
+
+![Captura de pantalla](Imágenes/Captura-de-pantalla-6.png)
+
+</center>
+
+8. Este paso es opcional, pero si es deseable por el usuario se pueden agregar **etiquetas** que nos ayudarán a brindar más información sobre el recurso creado, como *costos, área del departamento empresarial*, entre otros datos.
+<center>
+
+![Captura de pantalla](Imágenes/Captura-de-pantalla-7.png)
+
+</center>
+
+9. 
