@@ -93,4 +93,31 @@
 
 </center>
 
-12. Una vez dado click en la URL, nos redireccionará a la página de **WordPress > Instalation**
+12. Una vez dado click en la URL, nos redireccionará a la página de **WordPress > Instalation** donde configuraremos el idioma.
+<center>
+
+![Captura de pantalla](Imágenes/Captura-de-pantalla-11.png)
+
+</center>
+
+13. Posteriomente proporcionaremos los siguientes datos: **título del sitio, nombre de ususario, contraseña, correo electrónico, y conceder el permiso de visibilidad en los motores de búsqueda**
+<center>
+
+![Captura de pantalla](Imágenes/Captura-de-pantalla-12.png)
+
+</center>
+
+14. Ya instalado WordPress, no aparecerá una página de confirmación, donde daremos click en el botón de **"Acceder"** y por pimera vez podemos visualizar nuestro sitio web.
+<center>
+
+![Captura de pantalla](Imágenes/Captura-de-pantalla-13.png)
+![Captura de pantalla](Imágenes/Captura-de-pantalla-14.png)
+
+</center>
+
+15. Para acceder al panel de administración de la página web, nos dirigimos a la barra de navegación y agregamos el texto:  ~wp-admin~
+
+
+
+
+
