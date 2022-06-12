@@ -26,34 +26,34 @@
 2. Una vez iniciada la sesión, en la página de inicio nos dirigimos a la **"Barra de búsqueda de recursos, servicios y documentos"**. 
 <center>
 
-![Captura de pantalla]()
+![Captura de pantalla](Imágenes/Captura-de-pantalla-1.png)
 
 </center>
 
 3. Buscamos la palabra **"Marketplace"** y damos click en ella.
 <center>
 
-![Captura de pantalla]()
+![Captura de pantalla](Imágenes/Captura-de-pantalla-2.png)
 
 </center>
 
 4. Dentro de ese apartado nos dirigimos a la barra de búsqueda **"Buscar en Marketplace"** y bucamos la palabra **WordPress**.
 <center>
 
-![Captura de pantalla]()
+![Captura de pantalla](Imágenes/Captura-de-pantalla-3.png)
 
 </center>
 
 5. Damos click en primer recuadro que dice **"WordPress App Service"**.
 <center>
 
-![Captura de pantalla]()
+![Captura de pantalla](Imágenes/Captura-de-pantalla-4.png)
 
 </center>
 
 6. Posteriormente damos click en el botón de **"Crear"**.
 <center>
 
-![Captura de pantalla]()
+![Captura de pantalla](Imágenes/Captura-de-pantalla-5.png)
 
 </center>
