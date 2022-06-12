@@ -72,4 +72,25 @@
 
 </center>
 
-9. 
+9. Damos click en el botón **"Revisar y crear"** para verificar que la información del recurso sea la correcta. Si todo está correcto, damos click en el botón **"Crear"**.
+<center>
+
+![Captura de pantalla](Imágenes/Captura-de-pantalla-8.png)
+
+</center>
+
+10.  Una vez implementado el recurso correctamente (cabe mencionar que este proceso puede ser tardado), damos click en el botón de **"Ir al recurso"**.
+<center>
+
+![Captura de pantalla](Imágenes/Captura-de-pantalla-9.png)
+
+</center>
+
+11. A continuación observaremos toda la información del recurso creado y es de nuestro interés dar click en la **URL del recurso**, en este ejemplo podemos observar que la URL es la que se enmarca en el recuadro rojo.
+<center>
+
+![Captura de pantalla](Imágenes/Captura-de-pantalla-10.png)
+
+</center>
+
+12. Una vez dado click en la URL, nos redireccionará a la página de **WordPress > Instalation**
