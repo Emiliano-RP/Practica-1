@@ -1,7 +1,7 @@
 # Nivel 2. Introducción a Azure
 <center>
 
-![Logo de Microsoft Azure](Microsoft_Azure.svg.png) ![Logo de IA Wizards](logocomunidad2.png)
+![Logo de Microsoft Azure](Imágenes/Microsoft_Azure.svg.png) ![Logo de IA Wizards](Imágenes/logocomunidad2.png)
 
 </center>
 
@@ -9,7 +9,7 @@
 # Práctica 1. Realización de una página web con Wordpress
 <center>
 
-![Logo de Wordpress](Logo-WordPress.png)
+![Logo de Wordpress](Imágenes/Logo-WordPress.png)
 
 </center>
 
