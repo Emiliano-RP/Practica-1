@@ -115,7 +115,8 @@
 
 </center>
 
-15. Para acceder al panel de administración de la página web, nos dirigimos a la barra de navegación y agregamos el texto:  ~wp-admin~
+15. Para acceder al panel de administración de la página web, nos dirigimos a la barra de navegación y agregamos el texto:~~wp-admin~~
+
 
 
 
