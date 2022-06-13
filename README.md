@@ -115,10 +115,35 @@
 
 </center>
 
-15. Para acceder al panel de administración de la página web, nos dirigimos a la barra de navegación y agregamos el texto:~~wp-admin~~
+15. Para acceder al panel de administración de la página web, nos dirigimos a la barra de navegación y agregamos el texto: `wp-admin`
 
+<center>
 
+![Captura de pantalla](Imágenes/Captura-de-pantalla-15.png)
 
+</center>
 
+16. En el panel de administrador, podemos modificar el diseño de la página we, eso ya depende de tus gustos y necesidades.
+<center>
 
+![Captura de pantalla](Imágenes/Captura-de-pantalla-16.png)
 
+</center>
+
+17. Para finalizar esta práctica, nos regresamos al inicio del **[portal de Microsoft Azure](https://portal.azure.com/#home)** en el inicio. Nos dirigfimos al recurso de **App service** y lo detenemos. Una vez detenído, la página web ya no estará disponible.
+<center>
+
+![Captura de pantalla](Imágenes/Captura-de-pantalla-17.png)
+
+</center>
+
+# Fin.
+#### Por [Emiliano Rodríguez Pérez](https://github.com/Emiliano-RP) #IA Wizards
+- ##### Instagram: [@_emiliano_rp](https://www.instagram.com/_emiliano_rp/)
+- ##### Facebook: [Emiliano Rodríguez Pérez](https://www.facebook.com/emiliano.rodriguezperez.94/)
+
+<center>
+
+![Foto de perfil](Imágenes/278746422_4751667654943452_7532415140118527715_n.jpeg)
+
+</center>
