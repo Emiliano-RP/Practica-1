@@ -58,7 +58,7 @@
 
 </center>
 
-7. Estando en el apartado **"Creación de Wordpress en App Service"**, en **datos básicos** colocamos la información pertinente para crear el recurso **(suscripción, grupo de recursos, región, nombre y sistema operativo, ya sea Windowa o Linux)**.
+7. Estando en el apartado **"Creación de Wordpress en App Service"**, en **datos básicos** colocamos la información pertinente para crear el recurso **(suscripción, grupo de recursos, región, nombre y sistema operativo, ya sea Windows o Linux)**.
 <center>
 
 ![Captura de pantalla](Imágenes/Captura-de-pantalla-6.png)
