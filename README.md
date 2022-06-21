@@ -130,7 +130,7 @@
 
 </center>
 
-17. Para finalizar esta práctica, nos regresamos al inicio del **[portal de Microsoft Azure](https://portal.azure.com/#home)** en el inicio. Nos dirigfimos al recurso de **App service** y lo detenemos. Una vez detenído, la página web ya no estará disponible.
+17. Para finalizar esta práctica, nos regresamos al inicio del **[portal de Microsoft Azure](https://portal.azure.com/#home)** en el inicio. Nos dirigimos al recurso de **App service** y lo detenemos. Una vez detenído, la página web ya no estará disponible.
 <center>
 
 ![Captura de pantalla](Imágenes/Captura-de-pantalla-17.png)
