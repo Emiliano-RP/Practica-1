@@ -107,7 +107,7 @@
 
 </center>
 
-14. Ya instalado WordPress, no aparecerá una página de confirmación, donde daremos click en el botón de **"Acceder"** y por pimera vez podemos visualizar nuestro sitio web.
+14. Ya instalado WordPress, nos aparecerá una página de confirmación, donde daremos click en el botón de **"Acceder"** y por pimera vez podemos visualizar nuestro sitio web.
 <center>
 
 ![Captura de pantalla](Imágenes/Captura-de-pantalla-13.png)
@@ -123,7 +123,7 @@
 
 </center>
 
-16. En el panel de administrador, podemos modificar el diseño de la página we, eso ya depende de tus gustos y necesidades.
+16. En el panel de administrador, podemos modificar el diseño de la página web, eso ya depende de tus gustos y necesidades.
 <center>
 
 ![Captura de pantalla](Imágenes/Captura-de-pantalla-16.png)
